@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1050"
+   height="1050"
+   viewBox="0 0 277.81249 277.81251"
+   version="1.1"
+   id="svg4536"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="rysapp-logo-v2.svg">
+  <defs
+     id="defs4530" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.50682791"
+     inkscape:cx="399.65522"
+     inkscape:cy="504.30873"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-others="false"
+     guidetolerance="10000"
+     inkscape:window-width="1366"
+     inkscape:window-height="688"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5081" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,1000"
+       id="guide5096"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="264.58333,0"
+       orientation="-1000,0"
+       id="guide5098"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="264.58333,264.58333"
+       orientation="0,-1000"
+       id="guide5100"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,264.58333"
+       orientation="1000,0"
+       id="guide5102"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="132.292,105.83334"
+       orientation="1,0"
+       id="guide5104"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="126.99999,132.29166"
+       orientation="0,1"
+       id="guide5106"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4533">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="circle"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-19.187482)">
+    <circle
+       style="fill:#2d334a;fill-opacity:1;fill-rule:evenodd;stroke:#fe346e;stroke-width:5.29166651;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5089"
+       cx="138.86836"
+       cy="158.81197"
+       r="131.53571" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="name"
+     transform="translate(0,13.229167)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="line"
+     style="display:none"
+     transform="translate(0,13.229167)">
+    <path
+       style="fill:none;stroke:#fe346e;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0,132.29167 H 264.58333"
+       id="path5109"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="slogan box"
+     style="display:none"
+     transform="translate(0,13.229167)">
+    <rect
+       style="fill:#fe346e;fill-opacity:1;stroke:#00c853;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5116"
+       width="137.58333"
+       height="35.529758"
+       x="63.500004"
+       y="133.80357" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="slogan"
+     transform="translate(0,13.229167)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.91666794px;line-height:1.25;font-family:Baskervville;-inkscape-font-specification:Baskervville;letter-spacing:0px;word-spacing:0px;fill:#fe346e;fill-opacity:1;stroke:#fe346e;stroke-width:2.64583325;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="61.689629"
+       y="116.74635"
+       id="text5094"><tspan
+         sodipodi:role="line"
+         id="tspan5092"
+         x="61.689629"
+         y="116.74635"
+         style="font-size:52.91666794px;fill:#fe346e;fill-opacity:1;stroke:#fe346e;stroke-width:2.64583325;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">rysapp</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:Baskervville;-inkscape-font-specification:Baskervville;letter-spacing:0px;word-spacing:0px;fill:#ffbd69;fill-opacity:1;stroke:#ffbd69;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="89.68779"
+       y="159.83549"
+       id="text5114"><tspan
+         sodipodi:role="line"
+         id="tspan5112"
+         x="89.68779"
+         y="159.83549"
+         style="font-size:21.16666603px;fill:#ffbd69;fill-opacity:1;stroke:#ffbd69;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">IMAGINE</tspan></text>
+  </g>
+</svg>

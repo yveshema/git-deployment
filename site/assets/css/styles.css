@@ -1,0 +1,84 @@
+/* Get rid of margins on headings */
+h1,h2,h3,h4,h5,h6 {
+  margin: 0;          
+}
+/* Header background image to cover 100% of the viewport */
+header {
+  background: url(../img/landing-page-03-hao-wang-v2.jpg);
+  background-size: cover;
+  background-position:center;
+  min-height: 100vh;
+}
+/*Setup position of the logo such that it sits half-way below the navigation box*/
+.sitenav {
+  position:relative;
+  border-bottom: 2px solid #b21f66;
+}
+li.social {
+  display:inline-block;         
+  max-width: 4rem;
+}
+.logo {
+  position:absolute;
+  bottom: -40px; 
+  margin-left: 1rem;         
+}
+.logo > img {
+  max-height: 80px;
+}
+.slogan {
+  color:#ffbd69;
+  font-weight: bold;
+  font-size: 1rem;
+  word-spacing: 2rem;
+  padding-left: 100px;          
+}
+.slogan > p {
+  margin: 0;
+}
+.tagline {          
+  font-weight: bolder;
+  margin-top: 5rem;
+  margin-left: 2rem;          
+}
+.tagline > h1 {
+  color:#fe346e;
+}
+.tagline > p {
+  color:#fff;
+  font-size: 2rem;          
+}
+@media screen and (max-width: 800px) {
+  header {
+    min-height: 500px;
+  }
+  .parallax-container {
+    height: 150px;
+  }
+  /*Position the slogan center horizontally and below the logo image*/          
+  .slogan {
+    padding:0;
+    margin-top:40px;
+    text-align:center;
+  }          
+}
+.section {
+  padding-top: 4vw;
+  padding-bottom: 4vw;
+}
+.tabs .indicator {
+  background-color: #1a237e;
+}
+.tabs .tab a:focus, .tabs .tab a:focus.active {
+  background: transparent;
+}
+footer {
+  overflow:hidden;
+}
+.form-success {
+  color: green;
+}
+.form-error {
+  color: red;
+}
+        
