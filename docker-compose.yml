@@ -4,19 +4,19 @@ services:
   app:
     image: node:12-alpine
     user: "node"
-    working_dir: /home/node/server
+    working_dir: /home/node/app
     environment:
-       VIRTUAL_HOST: rysapp.com
-       LETSENCRYPT_HOST: rysapp.com
-       LETSENCRYPT_EMAIL: admin@rysapp.com
+       VIRTUAL_HOST: your_valid_domain
+       LETSENCRYPT_HOST: your_valid_host
+       LETSENCRYPT_EMAIL: your_valid_email_address
        NODE_ENV: production     
     volumes:
-      - ./site:/home/node/server
+      - ./site:/home/node/app
     expose:
       - "3000"
     restart: always
     command: "npm start"
-    container_name: rys_app
+    container_name: myapp
 
 networks:
   default:
